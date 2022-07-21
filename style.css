@@ -1,0 +1,27 @@
+body{
+    background: url("https://images.theconversation.com/files/232705/original/file-20180820-30593-1nxanpj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+    
+}
+.others{
+    opacity: 0.5;
+}
+.others{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+.card{
+    opacity: 0.7;
+    border: 2px solid white;
+}
+.day{
+    background-color: gray;
+    opacity: 0.7;
+    
+}
+.time-zone{
+    font-size: xx-large;
+}
